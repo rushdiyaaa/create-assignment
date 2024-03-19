@@ -1,0 +1,34 @@
+.bold-label {
+    font-weight: 700;
+    font-size: 15px;
+    
+  }
+  
+  .bold-label:hover {
+    background: darken(currentColor, 10%) !important;
+  }
+  
+  .lavender:hover {
+    background-color: #F2D7EE !important; 
+  }
+  
+  .blue:hover{
+    background-color: #b1ecff !important;
+  }
+  
+  .brown:hover{
+    background-color: #ffd357 !important;
+  }
+  
+  .pink:hover{
+    background-color: #FFCCE6 !important;
+  }
+  
+  .green:hover{
+    background-color: #D6E58C !important;
+  }
+  
+  
+  
+  
+  
