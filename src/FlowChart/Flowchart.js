@@ -89,6 +89,21 @@ export default function Flowchart() {
     if (node.data.label === 'Car Manufacturing Project') {
       navigate('/more-details');
     }
+    if (node.data.label === 'Research') {
+      navigate('/research-details');
+    }
+    if (node.data.label === 'Planning') {
+      navigate('/planning-details');
+    }
+    if (node.data.label === 'Designing') {
+      navigate('/designing-details');
+    }
+    if (node.data.label === 'Manufacturing') {
+      navigate('/manufacturing-details');
+    }
+    if (node.data.label === 'Sales/Marketing') {
+      navigate('/sales-details');
+    }
   };
 
   return (
